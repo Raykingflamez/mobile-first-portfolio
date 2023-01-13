@@ -47,8 +47,6 @@ This is the first Milestone.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -67,8 +65,6 @@ This is the first Milestone.
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - Mobile first design
 - Navbar
@@ -121,8 +117,6 @@ Install:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/Raykingflamez)
@@ -134,8 +128,6 @@ Install:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - Project Section
 - About Section

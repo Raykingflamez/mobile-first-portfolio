@@ -26,9 +26,9 @@ header {
   height: 100vh;
   padding: 20px 40px;
   background-image: url(../images/header-shapes\ mobile-bg.jpg);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 20px;
+  background-position-y: 50px;
 }
 
 /* Navbar styles */
@@ -49,7 +49,7 @@ nav {
 
 /* Headline Styles */
 .headline {
-  margin-top: 60px;
+  margin-top: 70px;
   color: #172b4d;
 }
 
