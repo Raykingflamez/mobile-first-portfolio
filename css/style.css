@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+
+/* Default Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+/* HEADER STYLES */
+header {
+  width: 100vw;
+  height: 100vh;
+  padding: 20px 40px;
+  background-image: url(../images/header-shapes\ mobile-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 50px;
+}
+
+/* Navbar styles */
+.logo-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav {
+  color: #6070ff;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.logo {
+  color: #6070ff;
+}
+
+/* Headline Styles */
+.headline {
+  margin-top: 70px;
+  color: #172b4d;
+}
+
+.headline h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.headline p {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #344563;
+}
+
+.headline span {
+  display: block;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #7f8cff;
+}
+
+.headline .social-icons {
+  margin-top: 10px;
+  display: flex;
+}
+
+.headline .social-icons a {
+  color: #505f79;
+  font-size: 25px;
+  margin-right: 10px;
+}
