@@ -16,24 +16,28 @@ a {
   text-decoration: none;
 }
 
+ul{
+  list-style: none;
+}
+
 /* HEADER STYLES */
 header {
   width: 100vw;
   height: 100vh;
-  padding: 10px 40px;
+  padding: 20px 40px;
   background-image: url(../images/header-shapes\ mobile-bg.jpg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position-y: 20px;
 }
 
 /* Navbar styles */
-nav {
-  height: 10vh;
-  width: 100%;
+.logo-wrapper{
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  padding: 10px 0;
+}
+
+nav {
   color: #6070ff;
   font-weight: 700;
   font-size: 18px;
@@ -58,6 +62,7 @@ nav {
   margin-top: 20px;
   font-weight: 400;
   font-size: 16px;
+  color: #344563;
 }
 
 .headline span {
@@ -70,6 +75,7 @@ nav {
 
 .headline .social-icons {
   margin-top: 10px;
+  display: flex;
 }
 
 .headline .social-icons a {
