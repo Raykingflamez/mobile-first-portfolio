@@ -25,7 +25,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -37,7 +36,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Mobile-First-Portfolio] <a name="about-project"></a>
 
 This project aims to build a mobile first portfolio.
 This is the first Milestone.
